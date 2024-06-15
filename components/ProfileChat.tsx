@@ -16,7 +16,7 @@ const ProfileChat = () => {
             />
                <Camera/>
             <img src="/images/call.svg" alt="" className='h-[24px] w-[24px]'/>
-         
+         xxxxx
           </div>
           <div className='flex justify-end cursor-pointer items-center gap-4'>
             <div className='flex flex-col items-end'>
